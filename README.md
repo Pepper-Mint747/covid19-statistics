@@ -8,5 +8,3 @@
 ### Introduction
 This is the code repository a web app that show the current statistics of Covid19 in different countries in the world
 
-Setup:
-- run '''npm i && npm start''' for both client and server side to start the development server
